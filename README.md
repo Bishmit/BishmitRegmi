@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Bishmit Regmi</h1>
-<h3 align="center">A am a passionate learner.</h3>
+<h3 align="center">I am a passionate learner.</h3>
 <img align="left" alt ="Coding" width="300" src ="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishmitregmi&label=Profile%20views&color=0e75b6&style=flat" alt="bishmitregmi" /> </p>
